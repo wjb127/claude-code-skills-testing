@@ -1,3 +1,12 @@
+---
+name: test-web-code
+description: |
+  Generate and run Unit + Integration + E2E tests for a web project. Every scenario ships
+  Happy / Sad / Bad / Ugly variants, so happy-path-only suites are impossible.
+  Production-first E2E with no automation bypasses — no fake-green tests.
+  웹 프로젝트 통합 테스트 생성·실행. 해피패스 금지, 우회 없는 프로덕션 E2E.
+---
+
 # test-web-code — 웹 프로젝트 통합 테스트 생성/실행기
 
 현재 프로젝트의 스택을 분석해서 **Unit + Integration + E2E** 테스트를 한 번에 셋업하고 실행한다. **E2E에 집중**하되 피라미드 비율(70/20/10)을 의식한다.

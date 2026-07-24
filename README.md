@@ -1,5 +1,7 @@
 # Claude Code Skills — Testing & Tracking Verification
 
+> Part of [**claude-skills**](https://github.com/wjb127/claude-skills) — install everything with `/plugin marketplace add wjb127/claude-skills`
+
 웹 개발 외주/사이드 프로젝트에서 반복적으로 필요한 **테스트 자동화**와 **트래킹 픽셀 검증** 워크플로우를 Claude Code Skill로 패키징한 모음.
 
 AI(특히 바이브 코딩)가 짠 코드의 약점 — 가짜 그린 테스트, 픽셀 누락, 듀얼 GTM/gtag 중복, 동의 신호 누락 — 을 잡아내기 위한 실전 체크리스트와 자동 검증 루프가 들어 있다.
